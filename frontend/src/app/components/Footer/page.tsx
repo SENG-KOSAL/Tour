@@ -27,7 +27,6 @@ export default function Footer() {
             <li><a href="#">News</a></li>
           </ul>
         </div>
-
         {/* Other Pages */}
         <div>
           <h4 className="font-semibold mb-4 text-white">Other pages</h4>
